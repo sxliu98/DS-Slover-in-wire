@@ -1,3 +1,3 @@
 # DS-Slover-in-wire
-Programme for solving dispersion relations for torsional, longitudinal and bending waves in wires
+Programme for solving dispersion relations for torsional, longitudinal and bending waves in wires.
 The program is designed to solve dispersion equations for torsional, longitudinal and flexural waves in rods in order to obtain a family of phonon dispersion relations in thin wires. The algorithm for finding the dispersion curves of elastic waves of different polarization is based on finding the roots of the nonlinear Pochhammer's equations containing the Bessel special functions and the sequential transition between the real and imaginary regions of arguments definition. The final result of the program is an elastic dispersion relations for phonons of different polarization in thin wires, well as their productions: group and phase velocities and density function of states.
