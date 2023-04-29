@@ -19,7 +19,7 @@ end
 WX = zeros(mode,Nk);
 for i = 1:mode
     for j = 1:Nk
-
+        WX(i,j) = (betaX(i)^2 + XiX(j)^2)^0.5;
     end
 end
 figure('OuterPosition',[0 0 800 600])
